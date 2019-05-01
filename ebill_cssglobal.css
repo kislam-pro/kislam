@@ -1,0 +1,20 @@
+.apex-side-nav .t-Body-actions,
+.apex-side-nav .t-Body-nav,
+.apex-side-nav .t-Body-title {
+    top: 0px !important;
+}
+
+.t-Header-branding {
+    height: 0px
+}
+
+.t-NavTabs-item 
+{
+        background-color: #FF5722;
+    color: whitesmoke;
+}
+
+.t-Body
+{
+        font-family: cambria, Georgia, serif;
+}
